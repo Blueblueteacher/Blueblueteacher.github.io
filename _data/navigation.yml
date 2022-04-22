@@ -1,6 +1,4 @@
 # Site navigation links
 
-- title: Experience
-  url: /Experience/
-- title: Project
-  url: /project/
+- title: Projects
+  url: /projects/
