@@ -3,6 +3,7 @@ layout: project
 title: Experience
 excerpt: "A List of Projects"
 comments: false
+project: true
 ---
 
 ### 2020학년도 2학기  
