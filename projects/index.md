@@ -1,9 +1,11 @@
 ---
 project: true
 layout: project
-title: Experience
+title: Experience2
 excerpt: "A List of Projects"
 comments: true
+
+---
 
 ### 2020학년도 2학기  
 학과 아두이노 동아리 운영  
@@ -32,4 +34,3 @@ SW라운지 멘토 활동
 WISET 찾아가는 실험실 멘토 활동  
 교사대생 등 대학생 튜터링 사업 -> 아동센터 학습 지원  
 
----
