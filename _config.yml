@@ -1,7 +1,7 @@
 # Site
 title:              DaHyun Blog
 bio:                'Welcome to my blog'
-description:        "This is DaHyun_Kim Blog"
+description:        "Jeju National University"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -37,14 +37,14 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:         dngusekgus@naver.com
 #twitter:            username
 #facebook:           username
-github-url:         username
+github-url:         https://github.com/Blueblueteacher
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
