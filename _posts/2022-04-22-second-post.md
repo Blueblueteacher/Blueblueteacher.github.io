@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SW 라운지 자동차멈추기 게임 만들기 1편"
+title: "[SW 라운지]자동차멈추기 게임 만들기 1편"
 date: 2022-04-22
 excerpt: "자동차 멈추기 게임을 유니티로 만들어 보아요!"
 comments: true
