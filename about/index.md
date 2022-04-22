@@ -8,6 +8,7 @@
 ❗️ 현재 개발 중인 프로그램  
  * 메타버스세계에서 배우는 컴퓨터 시스템
  => 중등 정보 교육과정 4단원 컴퓨팅 시스템 단원의 컴퓨터 내부요소 및 구성 학습을 위한 프로그램을 개발하고 있습니다.  
+
 💻 가끔 알고리즘 공부를 위해 백준 사이트를 이용하곤 합니다! 아래는 제 백준 등급입니다.  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=flying)](https://solved.ac/flying)    
