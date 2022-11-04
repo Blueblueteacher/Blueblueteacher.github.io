@@ -1,4 +1,5 @@
 ---
+project: true
 layout: post
 title: "[SW 라운지]자동차 멈추기 게임 2편"
 date: 2022-04-22
