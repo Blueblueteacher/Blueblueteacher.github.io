@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[CodeUp] 1269 : 수열의 값 구하기"
-date: 2022-04-22
+date: 2022-11-06
 excerpt: "#수열 #반복문(for문)"
 comments: true
 ---
