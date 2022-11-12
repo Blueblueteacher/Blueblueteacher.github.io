@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[CodeUp] 1355, 1357 : 삼각형 출력하기 3, 4"
+title: "[CodeUp] 1402 : 거꾸로 출력하기 3"
 date: 2022-11-11
-excerpt: "#삼각형찍기 #다중반복문(for문)"
+excerpt: "#배열 #역순출력 #버블정렬""
 comments: true
 ---
 
