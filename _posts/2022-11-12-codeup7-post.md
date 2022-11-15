@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "[CodeUp] 1402 : 거꾸로 출력하기 3"
-date: 2022-11-11
-excerpt: "#배열 #역순출력 #버블정렬""
+date: 2022-11-12
+excerpt: "#배열 #역순출력 #버블정렬"
 comments: true
 ---
 
