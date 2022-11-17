@@ -2,7 +2,7 @@
 layout: post
 title: "[CodeUp] 1410 : 올바른 괄호 1 (괄호 개수 세기)"
 date: 2022-11-14
-excerpt: "#배열 #strlen #문자열 비교""
+excerpt: "#배열 #strlen #문자열 비교"
 comments: true
 ---
 
