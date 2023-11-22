@@ -1,3 +1,12 @@
+---
+layout: post
+title: "[CodeUp] 1269 : 수열의 값 구하기"
+date: 2022-11-06
+excerpt: "#수열 #반복문(for문)"
+comments: true
+---
+
+```Python
 T = ['딸기','샤인머스캣','귤','블랙 사파이어','파인애플']
 T_count = [5, 5, 5, 5, 5]
 T_Buy = []
