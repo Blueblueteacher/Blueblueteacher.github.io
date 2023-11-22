@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[CodeUp] 1269 : 수열의 값 구하기"
-date: 2022-11-06
-excerpt: "#수열 #반복문(for문)"
+title: "탕후루 키오스크 만들기"
+date: 2023-11-23
+excerpt: "#키오스크"
 comments: true
 ---
 
