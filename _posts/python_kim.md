@@ -6,7 +6,7 @@ excerpt: "#키오스크"
 comments: true
 ---
 
-```Python
+```python
 T = ['딸기','샤인머스캣','귤','블랙 사파이어','파인애플']
 T_count = [5, 5, 5, 5, 5]
 T_Buy = []
